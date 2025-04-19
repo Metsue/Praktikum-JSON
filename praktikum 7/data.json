@@ -1,0 +1,34 @@
+[
+    {
+        "nama": "Laptop Quantum X1",
+        "kategori": "Laptop Gaming",
+        "tahun": 2023,
+        "produsen": "TechMaster",
+        "harga": "Rp 18.999.000",
+        "gambar": "https://evdiz.com/technopc-quantum-gaming-magic-cwe15iar-i7-11800h-16gb-512gb-rtx3050-fredoos-laptop-laptop-quantum-4318-18-K.jpg"
+    },
+    {
+        "nama": "Smartphone Nova 9T",
+        "kategori": "Smartphone Flagship",
+        "tahun": 2024,
+        "produsen": "MobilePlus",
+        "harga": "Rp 9.999.000",
+        "gambar": "https://www.graiet.tn/media/catalog/product/cache/fb4fbd9d41acbe50a1e96292a8b8604b/h/u/huawei_smartphone_nova_9_se_8128go_blanc.jpg"
+    },
+    {
+        "nama": "Lenovo Tablet VisionPad Pro",
+        "kategori": "Tablet Hibrida",
+        "tahun": 2023,
+        "produsen": "Lenovo",
+        "harga": "Rp 6.499.000",
+        "gambar": "https://images.fonearena.com/blog/wp-content/uploads/2021/11/Lenovo-Xiaoxin-Pad-Pro-12.6.jpg"
+    },
+    {
+        "nama": "Smartwatch Pulse 3",
+        "kategori": "Wearable Device",
+        "tahun": 2024,
+        "produsen": "FitLife",
+        "harga": "Rp 2.299.000",
+        "gambar": "https://tse3.mm.bing.net/th?id=OIP.O4lPLWcfgBNu8DhqTCrvXwHaE4&pid=Api&P=0&h=180"
+    }
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info Produk</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Galeri Elektronik Indra</h1>
+        <hr style="height: 5px; background: #3498db; border: none;">
+        <div class="input-group">
+            <label for="produkSelect">Pilih Produk:</label>
+            <select id="produkSelect">
+                <option value="">-- Silahkan Pilih --</option>
+            </select>
+        </div>
+
+        <div id="detailProduk" class="hidden">
+            <h2>Detail Produk</h2>
+            <div class="detail-layout">
+                <div class="product-image">
+                    <img id="gambar" src="" alt="Gambar Produk">
+                </div>
+                <div class="detail-content">
+                    <p><strong>Nama:</strong> <span id="nama"></span></p>
+                    <p><strong>Kategori:</strong> <span id="kategori"></span></p>
+                    <p><strong>Tahun Rilis:</strong> <span id="tahun"></span></p>
+                    <p><strong>Produsen:</strong> <span id="produsen"></span></p>
+                    <p><strong>Harga:</strong> <span id="harga"></span></p>
+                </div>
+            </div>
+        </div>
+        
+
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+[
+    {
+      "nama": "Asus ROG Strix",
+      "merek": "Asus",
+      "prosesor": "Intel Core i7",
+      "ram": "16GB",
+      "harga": 18000000,
+      "stok": 5,
+      "gambar": "1.jpeg"
+    },
+    {
+      "nama": "Lenovo Legion 5",
+      "merek": "Lenovo",
+      "prosesor": "AMD Ryzen 7",
+      "ram": "16GB",
+      "harga": 15000000,
+      "stok": 3,
+      "gambar": "2.jpeg"
+    },
+    {
+      "nama": "HP Pavilion",
+      "merek": "HP",
+      "prosesor": "Intel Core i5",
+      "ram": "8GB",
+      "harga": 12000000,
+      "stok": 8,
+      "gambar": "3.jpeg"
+    },
+    {
+      "nama": "Acer Aspire 7",
+      "merek": "Acer",
+      "prosesor": "AMD Ryzen 5",
+      "ram": "8GB",
+      "harga": 11000000,
+      "stok": 6,
+      "gambar": "4.jpeg"
+    },
+    {
+      "nama": "MSI GF63 Thin",
+      "merek": "MSI",
+      "prosesor": "Intel Core i5",
+      "ram": "8GB",
+      "harga": 13500000,
+      "stok": 4,
+      "gambar": "5.jpeg"
+    },
+    {
+      "nama": "Dell Inspiron 14",
+      "merek": "Dell",
+      "prosesor": "Intel Core i5",
+      "ram": "8GB",
+      "harga": 12500000,
+      "stok": 7,
+      "gambar": "6.jpeg"
+    },
+    {
+      "nama": "Apple MacBook Air M1",
+      "merek": "Apple",
+      "prosesor": "Apple M1",
+      "ram": "8GB",
+      "harga": 16500000,
+      "stok": 2,
+      "gambar": "7.jpeg"
+    }
+  ]

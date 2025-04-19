@@ -1,0 +1,33 @@
+[
+    {
+    "judul": "Bumi Manusia",
+    "penulis": "Pramoedya Ananta Toer",
+    "tahun_terbit": 1980,
+    "genre": "Fiksi Sejarah",
+    "jumlah_halaman": 535
+    },
+
+    {
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "tahun_terbit": 2005,
+    "genre": "Drama",
+    "jumlah_halaman": 529
+    },
+
+    {
+    "judul": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+    "penulis": "Dee Lestari",
+    "tahun_terbit": 2001,
+    "genre": "Fiksi Kontemporer",
+    "jumlah_halaman": 352
+    },
+
+    {
+    "judul": "Saman",
+    "penulis": "Ayu Utami",
+    "tahun_terbit": 1998,
+    "genre": "Fiksi Sastra",
+    "jumlah_halaman": 150
+    }
+]
